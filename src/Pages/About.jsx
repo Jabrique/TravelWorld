@@ -23,10 +23,7 @@ const About = () => {
                 <span className="highlight">Memories</span>
               </h1>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Phasellus tempus massa vitae elit consectetur, ut convallis
-                massa ultricies. Duis hendrerit turpis quis tincidunt lobortis.
-                Nullam vel faucibus mauris.
+              We believe travel creates everlasting memories. Beyond exploration, it's about healing and rejuvenation. Let us lead you on a journey of self-discovery and renewal. It's time to go and heal yourself.
               </p>
             </div>
           </Col>

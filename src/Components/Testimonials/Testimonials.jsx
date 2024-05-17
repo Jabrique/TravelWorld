@@ -38,9 +38,7 @@ const Testimonials = () => {
   return (
     <Slider {...settings}>
         <div className="testimonials py-4 px-3">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-               Phasellus tempus massa vitae elit consectetur, ut convallis massa ultricies. 
-               Duis hendrerit turpis quis tincidunt lobortis. Nullam vel faucibus mauris.
+            <p>Booking with this agency was smooth sailing from start to finish. They crafted a flawless itinerary and were always available for questions. 
             </p>
 
             <div className="d-flex align-items-center gap-4 mt-3">
@@ -52,9 +50,7 @@ const Testimonials = () => {
             </div>
         </div>
         <div className="testimonials py-4 px-3">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-               Phasellus tempus massa vitae elit consectetur, ut convallis massa ultricies. 
-               Duis hendrerit turpis quis tincidunt lobortis. Nullam vel faucibus mauris.
+            <p>This agency surpassed all expectations. Their attention to detail ensured a seamless vacation. We'll definitely use them again.
             </p>
 
             <div className="d-flex align-items-center gap-4 mt-3">
@@ -66,9 +62,7 @@ const Testimonials = () => {
             </div>
         </div>
         <div className="testimonials py-4 px-3">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-               Phasellus tempus massa vitae elit consectetur, ut convallis massa ultricies. 
-               Duis hendrerit turpis quis tincidunt lobortis. Nullam vel faucibus mauris.
+            <p>This agency's personalized approach made our trip perfect. They tailored everything to our tastes and interests. 
             </p>
 
             <div className="d-flex align-items-center gap-4 mt-3">
@@ -80,9 +74,7 @@ const Testimonials = () => {
             </div>
         </div>
         <div className="testimonials py-4 px-3">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-               Phasellus tempus massa vitae elit consectetur, ut convallis massa ultricies. 
-               Duis hendrerit turpis quis tincidunt lobortis. Nullam vel faucibus mauris.
+            <p>Thanks to this agency's professionalism, our trip was stress-free. They handled every detail impeccably. Highly recommended for a worry-free vacation.
             </p>
 
             <div className="d-flex align-items-center gap-4 mt-3">
@@ -94,9 +86,7 @@ const Testimonials = () => {
             </div>
         </div>
         <div className="testimonials py-4 px-3">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-               Phasellus tempus massa vitae elit consectetur, ut convallis massa ultricies. 
-               Duis hendrerit turpis quis tincidunt lobortis. Nullam vel faucibus mauris.
+            <p>Thanks to this agency, our adventure was unforgettable. Every detail was carefully planned, allowing us to relax and enjoy. Can't wait for our next trip with them!
             </p>
 
             <div className="d-flex align-items-center gap-4 mt-3">

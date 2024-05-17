@@ -46,8 +46,7 @@ const Footer = () => {
             <div className="logo">
               <img src={logo} alt="" />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                consectetur adipiscing elit.
+                It's Time to Go and Heal your Self
               </p>
 
               <div className="social__links d-flex align-items-center gap-4">
@@ -113,7 +112,7 @@ const Footer = () => {
                     to="mailto:support@travelworld.com"
                     className="color-text"
                   >
-                    support@travelworld.com
+                    shironimex@gmail.com
                   </Link>
                 </p>
               </ListGroupItem>
@@ -126,7 +125,7 @@ const Footer = () => {
                   <h6 className="mb-0">Phone:</h6>
                 </div>
                 <p className="mb-0">
-                  <Link to="tel:9876543210">+91 9876543210</Link>
+                  <Link to="tel:9876543210">+62 123456789</Link>
                 </p>
               </ListGroupItem>
 
@@ -137,17 +136,9 @@ const Footer = () => {
                   </span>
                   <h6 className="mb-0">Address:</h6>
                 </div>
-                <p className="mb-0">Pune, Maharashtra, India</p>
+                <p className="mb-0">Jl. Pecantingan, Sekardangan, Sidoarjo, Jawa Timur 61215</p>
               </ListGroupItem>
             </ListGroup>
-          </Col>
-
-          <Col lg="12" className="text-center pt-5">
-            <p className="copyright">
-              &copy; {year} Travel World. All Rights Reserved.
-              Designed and Developed By{" "}
-              <Link to="https://shuence.netlify.app">CodeShuence</Link>
-            </p>
           </Col>
         </Row>
       </Container>
